@@ -1,0 +1,23 @@
+html.dark {
+  --text-color: #fff;
+  --icon-color: brightness(0) saturate(100%) invert(100%) sepia(1%)
+    saturate(7483%) hue-rotate(206deg) brightness(100%) contrast(102%);
+  --header-bg-color: #171c28;
+  --top-act-group-bg-color: #292e39;
+  --top-act-group-shadow: rgba(0, 0, 0, 0.2);
+  --top-act-group-separate: #ededf6;
+  --top-act-group-shadow-avatar: rgba(0, 0, 0, 0.08);
+}
+
+html {
+  --text-color: #1a162e;
+  --icon-color: brightness(0) saturate(100%) invert(8%) sepia(20%)
+    saturate(1805%) hue-rotate(210deg) brightness(98%) contrast(96%);
+  --header-bg-color: #eee;
+  --top-act-group-bg-color: #fff;
+  --top-act-group-shadow: rgba(237, 237, 246, 0.2);
+  --top-act-group-separate: #ededf6;
+  --top-act-group-shadow-avatar: rgba(0, 0, 0, 0.08);
+}
+
+/*# sourceMappingURL=index.css.map */
